@@ -8,8 +8,8 @@ Dynamic prompt generation with relevant examples using LangChain's FewShotPrompt
 User Interface: Built with Streamlit for a smooth, browser-based UX.
 
 Tech Stack used in the project: 
-1. Python 🐍
-Streamlit 📺
-OpenAI GPT (via langchain-openai)
-LangChain 🔗
-dotenv 🌱
+1. Python 
+2. Streamlit 
+3. OpenAI GPT (via langchain-openai)
+4. LangChain 
+5. dotenv 
